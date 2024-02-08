@@ -10,4 +10,4 @@ These are the main tutorials that you can find in this GitHub repo:
 
 + **QNN tutorial**: This tutorial aims to generate an explicable quantum machine learning method to automate disgnostics for mental health conditions. In this example, we will be working with an Autisitc Spectrum Disorder dataset, which consists of a set of binary answers to questionnaires. With such answers, our aim is to predict the probability of having ASD. A Quantum Neural Network will be used to make the predictions.
 
-+ + **QRC tutorial**: In this tutorial, we are going to use quantum reservoir computing to forecast stock prices.
++ **QRC tutorial**: In this tutorial, we are going to use quantum reservoir computing to forecast stock prices.
