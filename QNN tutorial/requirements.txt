@@ -1,0 +1,5 @@
+pennylane
+qiskit
+qiskit_algorithms
+qiskit_machine_learning
+pylatexenc
