@@ -1,2 +1,5 @@
 qiskit
 pylatexenc
+dimod
+dwave-system
+opencv-python
